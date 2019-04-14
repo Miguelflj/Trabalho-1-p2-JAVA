@@ -1,0 +1,9 @@
+Dump_De_carro.txt_Da_LocaHells
+Quantidade 7
+ABF-1234;Jipe;1000.0;false;Novo;S/obs;300.0;30.0
+ACD-1984;Palio;600.0;true;Semi-novo;S/obs;150.0;15.0
+ARL-1923;Fusca;200.0;false;S/obs;Novo;5.0;50.0
+APL-1291;Punto;1000.0;false;Semi-novo;S/obs;15.0;3.0
+UIA-1961;Hyunday;500.0;false;Novo;S/obs;50.0;3.0
+ALN-1907;Kombi;20000.0;false;Semi Nova;S/obs;20.0;3.0
+AYQ-1891;HB20;0.0;false;Novo;S/obs;20.0;3.0
